@@ -19,7 +19,7 @@
 
 **Cara Pengoperasian:**
 
-1.  `git clone`
+1.  `git clone https://github.com/afiqbomboloni/sistem-mahasiswa.git`
     
 2.  `composer install`
     
