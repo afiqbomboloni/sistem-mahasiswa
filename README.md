@@ -15,7 +15,7 @@
 
 **Prodi:** Sistem Informasi
 
-**Judul**  : Project Monitoring
+**Judul**  : Sistem Mahasiswa
 
 **Cara Pengoperasian:**
 
